@@ -12,6 +12,19 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      borderRadius: {
+
+        'tl-30': '35%',
+        'br-30': '35%',
+      },
+      textColor: {
+        blue : '#17414F',
+        lightCol : '#727272',
+        whiteLight : '#D9D9D9',
+      },
+      backgroundColor: {
+        blue : '#17414F',
+      }
     },
   },
   plugins: [],
